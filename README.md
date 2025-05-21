@@ -24,3 +24,7 @@ I would like to find a senior software engineer position that will allow me to w
 - Figma Plugins
 - Postgresql / MySQL
 - HTML + CSS
+
+## Languages
+- English (Fluent/Native)
+- French (A2-B1)
