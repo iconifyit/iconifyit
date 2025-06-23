@@ -24,6 +24,7 @@ I would like to find a senior software engineer position that will allow me to w
 - Figma Plugins
 - Postgresql / MySQL
 - HTML + CSS
+- Enterprise Content Management (Oracle WebCenter Content, Adobe Experience Manager, WordPress, Drupal)
 
 ## Languages
 - English (Fluent/Native)
