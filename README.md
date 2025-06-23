@@ -6,7 +6,7 @@ Senior Software Engineer
 I would like to find a senior software engineer position that will allow me to work remotely from anywhere, primarily in Europe/France. My wife and I have dreamed of moving to France ever since we met 11 years ago and now is the time in our lives to make the move.
 
 ## Online
-- [Tech Blog](https://www.linkedin.com/in/scott-lewis-full-stack/)
+- [Tech Blog](https://sketchandbuild.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/scott-lewis-full-stack/)
 
 ## Projects
