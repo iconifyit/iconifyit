@@ -6,7 +6,7 @@ Senior Software Engineer
 Please be aware that most of my work is in private repositories due to the proprietary nature. I am happy to share these with prospective employers when appropriate.
 
 ## Objective
-I would like to find a senior software engineer position that will allow me to work remotely from anywhere, primarily in Europe/France. My wife and I have dreamed of moving to France ever since we met 11 years ago and now is the time in our lives to make the move.
+I love to build things that improve people's lives. My objective is to find a position that will allow me to help conceive, design, and build products that make an impactfule difference in people's lives. My primary expertise is in web-based tools including enterprise content management, e-commerce, and event-driven, serverless applications primarily on AWS Cloud.
 
 ## Online
 - [Tech Blog](https://sketchandbuild.com)
