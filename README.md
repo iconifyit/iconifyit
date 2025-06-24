@@ -6,7 +6,7 @@ Senior Software Engineer
 Please be aware that most of my work is in private repositories due to the proprietary nature. I am happy to share these with prospective employers when appropriate.
 
 ## Objective
-I love to build things and to help people. My objective is to find a position that will allow me to help conceive, design, and build products that make an impactfule difference in people's lives. My primary expertise is in web-based tools including enterprise content management, e-commerce, and event-driven, serverless applications primarily on AWS Cloud.
+I love to build things and to help people. My objective is to find a position that will allow me to help conceive, design, and build products that have a positive impact on people's lives. My primary expertise is in web-based tools including enterprise content management, e-commerce, and event-driven, serverless applications primarily on AWS Cloud.
 
 ## Online
 - [Tech Blog](https://sketchandbuild.com)
