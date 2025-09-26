@@ -31,4 +31,4 @@ I love to build things and to help people. My objective is to find a position th
 
 ## Languages
 - English (Fluent/Native)
-- French (A2-B1)
+- French (Intermediate)
