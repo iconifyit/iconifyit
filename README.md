@@ -19,11 +19,21 @@ I love to build things and to help people. My objective is to find a position th
 - [Go Threaded Batch Image Converter](https://github.com/iconifyit/go-batch-svg-to-webp)
 
 ## Skills
-**Cloud & Infra:** AWS (IAM, VPC, EC2, Lambda, S3, SQS, RDS, etc.), Docker, GitHub Actions\
-**Languages & Frameworks:** Go, Node.js, Python, PHP, TypeScript, React, Express\
-**Databases:** PostgreSQL, MySQL, MongoDB\
-**CMS:** Adobe Experience Manager, Drupal, WordPress, Joomla\
-**Other:** SOA, REST APIs, CLI tools, Chrome/Figma/Adobe plugins
+
+### Cloud & Infra:** 
+AWS (IAM, VPC, EC2, Lambda, S3, SQS, RDS, etc.), Docker, GitHub Actions\
+
+### Languages & Frameworks
+Go, Node.js, Python, PHP, TypeScript, React, Express\
+
+### Databases
+PostgreSQL, MySQL, MongoDB\
+
+### CMS
+Adobe Experience Manager, Drupal, WordPress, Joomla\
+
+### Other 
+SOA, REST APIs, CLI tools, Chrome/Figma/Adobe plugins
 
 ## Languages
 - English (Fluent/Native)
