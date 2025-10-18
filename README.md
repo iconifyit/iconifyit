@@ -13,21 +13,17 @@ I love to build things and to help people. My objective is to find a position th
 - [LinkedIn Profile](https://www.linkedin.com/in/scott-lewis-full-stack/)
 
 ## Projects
-- https://vectopus.com
-- https://github.com/iconifyit/aws-public-private-vpc
-- https://github.com/iconifyit/go-batch-svg-to-webp
+- [VectorIcons.net SVG Marketplace](https://vectoricons.net)
+- [VectorIcons Code Base](https://github.com/iconifyit/vectoricons-base-public)
+- [AWS Public / Private VPC Stack](https://github.com/iconifyit/aws-public-private-vpc)
+- [Go Threaded Batch Image Converter](https://github.com/iconifyit/go-batch-svg-to-webp)
 
 ## Skills
-- AWS Cloud (EC2, SQS, Lambda, Cloudformation, SNS, RDS, Lightsail)
-- JavaScript / NodeJS / React.js
-- Python
-- Go
-- AppleScript
-- Adobe CEP Extensions
-- Figma Plugins
-- Postgresql / MySQL
-- HTML + CSS
-- Enterprise Content Management (Oracle WebCenter Content, Adobe Experience Manager, WordPress, Drupal)
+**Cloud & Infra:** AWS (IAM, VPC, EC2, Lambda, S3, SQS, RDS, etc.), Docker, GitHub Actions\
+**Languages & Frameworks:** Go, Node.js, Python, PHP, TypeScript, React, Express\
+**Databases:** PostgreSQL, MySQL, MongoDB\
+**CMS:** Adobe Experience Manager, Drupal, WordPress, Joomla\
+**Other:** SOA, REST APIs, CLI tools, Chrome/Figma/Adobe plugins
 
 ## Languages
 - English (Fluent/Native)
