@@ -2,6 +2,8 @@
 Senior Software Engineer  
 [*https://www.linkedin.com/in/scott-lewis-full-stack*](https://www.linkedin.com/in/scott-lewis-full-stack/) | [*https://sketchandbuild.com*](https://sketchandbuild.com)   
 
+[Resumé 13-10-2025](https://github.com/user-attachments/files/22982918/resume-2025-10-13-r2.pdf)
+
 ## NOTE: 
 Please be aware that most of my work is in private repositories due to the proprietary nature. I am happy to share these with prospective employers when appropriate.
 
