@@ -21,16 +21,16 @@ I love to build things and to help people. My objective is to find a position th
 ## Skills
 
 - **Cloud & Infra**
-AWS (IAM, VPC, EC2, Lambda, S3, SQS, RDS, etc.), Docker, GitHub Actions\
+AWS (IAM, VPC, EC2, Lambda, S3, SQS, RDS, etc.), Docker, GitHub Actions
 
 - **Languages & Frameworks**
-Go, Node.js, Python, PHP, TypeScript, React, Express\
+Go, Node.js, Python, PHP, TypeScript, React, Express
 
 - **Databases**
-PostgreSQL, MySQL, MongoDB\
+PostgreSQL, MySQL, MongoDB
 
 - **CMS**
-Adobe Experience Manager, Drupal, WordPress, Joomla\
+Adobe Experience Manager, Drupal, WordPress, Joomla
 
 - **Other** 
 SOA, REST APIs, CLI tools, Chrome/Figma/Adobe plugins
